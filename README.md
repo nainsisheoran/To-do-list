@@ -45,3 +45,27 @@ The application uses file handling to store tasks permanently, ensuring that use
 ---
 
 ## 🏗️ Project Structure
+To-Do-List
+┣ 📄 task_list.py # Main application
+┣ 📄 task.txt # Stores task data
+┗ 📄 README.md # Project documentation
+---
+
+---
+
+## ▶️ How to Run the Project
+  python task_list.py
+
+
+## Application workflow
+Option 1: Add Task
+Option 2: View Task
+Option 3: Save and Exit
+Option 4: Delete Task
+
+## Example
+Enter task name: Assignment
+Enter task description: Complete Python project
+
+Enter task name: Shopping
+Enter task description: Buy groceries
